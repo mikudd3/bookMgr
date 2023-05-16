@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<books>
+  <book id="1">
+    <name>1</name>
+    <author>1</author>
+    <date>1</date>
+    <press>1</press>
+    <price>1</price>
+    <state>1</state>
+    <comment>null</comment>
+  </book>
+  <book id="2">
+    <name>2</name>
+    <author>2</author>
+    <date>2</date>
+    <press>2</press>
+    <price>2</price>
+    <state>1</state>
+    <comment>null</comment>
+  </book>
+</books>
